@@ -1,6 +1,6 @@
 # To Do List
 
-####Simplificando e organizando suas tarefas do dia a dia!
+#### Simplificando e organizando suas tarefas do dia a dia!
 
 > Pequena demonstração em gif da aplicação!
 > <img src="./assets/todolist.gif" alt="printscreen da aplicação">
